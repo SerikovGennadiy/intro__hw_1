@@ -5,7 +5,10 @@ Console.WriteLine(IsEven(9));
 Console.WriteLine(IsEven(-3));
 Console.WriteLine(IsEven(-4));
 
-foreach(var n in GetEvensTo(0)){
+foreach(var n in GetEvensTo(9)){
+    System.Console.WriteLine(n);
+}
+foreach(var n in GetEvensTo(17)){
     System.Console.WriteLine(n);
 }
 
