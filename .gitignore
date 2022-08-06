@@ -79,7 +79,7 @@ packages/
 ## TODO: If the tool you use requires repositories.config, also uncomment the next line
 !packages/repositories.config
 
-# Windows Azure Build Output
+# Windows Azure Build   Output
 csx/
 *.build.csdef
 
